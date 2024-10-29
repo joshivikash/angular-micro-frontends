@@ -1,0 +1,27 @@
+{
+  "name": "angular-micro-frontends",
+  "version": "1.0.0",
+  "description": "angular micro frontends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshivikash/angular-micro-frontends.git"
+  },
+  "keywords": [
+    "angular",
+    "micro-frontends",
+    "module-federation"
+  ],
+  "author": "Vikash Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshivikash/angular-micro-frontends/issues"
+  },
+  "homepage": "https://github.com/joshivikash/angular-micro-frontends#readme",
+  "devDependencies": {
+    "@angular/cli": "^18.2.10"
+  }
+}
