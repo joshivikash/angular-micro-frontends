@@ -5,7 +5,8 @@ module.exports = withModuleFederationPlugin({
   name: 'mfe1',
 
   exposes: {
-    './Component': './src/app/app.component.ts',
+    './RemoteComponent': './src/app/app.component.ts',
+    './RemoteWebComponent': './src/app/remote-web-component/remote-web.component.ts',
   },
 
   shared: {
